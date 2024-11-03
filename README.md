@@ -50,4 +50,4 @@ Here’s a list of the major topics covered:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KritikaAgrahari/Crack-SQL-Interview-in-50-Questions.git
+   git clone https://github.com/KritikaAgrahari/sql-solutions-leetcode.git
